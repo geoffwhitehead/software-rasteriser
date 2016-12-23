@@ -97,8 +97,6 @@ Mesh* Mesh::GenerateLineLoop(std::vector<Vector3> v) {
 }
 
 
-
-// MODIFICATION GEOFF 
 /*//////////////////////////////////////////////////////////
 //**********	GENERATE SPACE DEBRIS	********************
 *///////////////////////////////////////////////////////////
@@ -311,6 +309,3 @@ Mesh * Mesh::LoadMeshFile(const string &filename) {
 	return m;
 
 }
-
-
-// MODIFICATION GEOFF END
